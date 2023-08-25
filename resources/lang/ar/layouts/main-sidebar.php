@@ -1,0 +1,46 @@
+<?php
+return [
+    'Programname' => 'اسم البرنامج',
+    'Dashboard' => 'لوحة القيادة',
+    'Grades' => 'الدرجات',
+    'List_classes' => 'قائمة الفصول الدراسية',
+    'sections' => 'الأقسام',
+    'List_sections' => 'قائمة الأقسام',
+    'add_student' => 'إضافة طالب',
+    'List_Teachers' => 'قائمة المعلمين',
+    'classes' => 'الفصول الدراسية',
+    'students' => 'الطلاب',
+    'Teachers' => 'المعلمين',
+    'Grades_list' => 'قائمة الدرجات',
+
+    'Parents' => 'اولياء الامور ',
+    'List Parents' => 'قائمه اولياء الامور ',
+    'Add Parents' => 'اضافه ولي امر ',
+
+    'Add Student' => 'اضافه طالب',
+    'List Student' => 'قائمه الطلاب',
+
+    'Students_Promotions' => 'ترقيات الطلاب ',
+    'add_Promotion' => 'اضافه ترقيه',
+    'list_Promotions' => 'قائمه الطلاب ',
+    'Graduate_students' => ' الطلاب المتخرجين',
+    'add_Graduate' => 'اضافه تخرج',
+    'list_Graduate' => 'قائمه الطلاب المتخرجين',
+    'Student_information' => 'معلومات الطلاب ',
+    'Tuition Fees' => 'رسوم الدراسة',
+    'Invoices' => 'فواتير',
+    'Receipts' => 'إيصالات',
+    'Excluded' => 'مستبعدة',
+    'Payments' => 'مدفوعات',
+    'Accounts' => 'حسابات',
+
+    'Attendance' => 'الغياب',
+    'List Students' => 'قائمه الطلاب',
+    'Subjects' => 'المواد الدراسيه',
+    'List of Subjects' => 'قائمه المواد الدراسيه',
+    'Exams List'=>'قائمه الامتحانات',
+    'Questions List'=>'قائمه الاساله',
+    'Exams'=>'ألامتحانات',
+    'library'=>'المكتبه',
+    'Setting'=>'الاعدادات'
+];

@@ -1,0 +1,48 @@
+<?php
+
+return [
+
+    'list_students' => 'list_students',
+    'list_students' => 'list_students',
+    'Name' => 'Name',
+    'Previous Educational Stage' => 'Previous Educational Stage',
+    'Academic Year' => 'Academic Year',
+    'Previous Grade' => 'Previous Grade',
+    'Previous Section' => 'Previous Section',
+    'Current Educational Stage' => 'Current Educational Stage',
+    'Current Academic Year' => 'Current Academic Year',
+    'Current Grade' => 'Current Grade',
+    'Current Section' => 'Current Section',
+    'Processes' => 'Processes',
+    'Retrieve Student' => 'Retrieve Student',
+    'Graduate Student' => 'Graduate Student',
+    'Undo All' => 'Undo All',
+    'Students_Promotions' => 'Students_Promotions',
+    'Students_Promotions' => 'Students_Promotions',
+    'Old Grade' => 'Old Grade',
+    'Grade' => 'Grade',
+    'Choose' => 'Choose',
+    'classrooms' => 'classrooms',
+    'section' => 'section',
+    'academic_year' => 'academic_year',
+    'Choose' => 'Choose',
+    'New Grade' => 'New Grade',
+    'Grade' => 'Grade',
+    'Choose' => 'Choose',
+    'classrooms' => 'classrooms',
+    'section' => 'section',
+    'academic_year' => 'academic_year',
+    'Choose' => 'Choose',
+    'Submit' => 'Submit',
+
+    'Student Retrieval' => 'Student Retrieval',
+    'Are you sure you want to retrieve the student?' => 'Are you sure you want to retrieve the student?',
+    'Close' => 'Close',
+    'submit' => 'submit',
+
+    'Student All Retrieval' => 'Student All Retrieval',
+    'Are you sure you want to All retrieve the student?' => ' Are you sure you want to All retrieve the student?',
+    'Close' => 'Close',
+    'submit' => 'submit',
+
+];

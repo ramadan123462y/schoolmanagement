@@ -1,0 +1,32 @@
+.form-check {
+    margin-bottom: 10px;
+}
+
+.form-check-input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+}
+
+.form-check-label {
+    position: relative;
+    padding-left: 25px;
+    cursor: pointer;
+}
+
+.form-check-label:before {
+    content: "";
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    top: 2px;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    border: 2px solid #ccc;
+}
+
+.form-check-input:checked + .form-check-label:before {
+    background-color: #2196F3;
+    border-color: #2196F3;
+}

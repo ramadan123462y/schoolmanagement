@@ -1,0 +1,23 @@
+<?php
+return[
+    'List of Books' => 'قائمة الكتب',
+    'Add New Book' => 'إضافة كتاب جديد',
+    'Book Name' => 'اسم الكتاب',
+    'Teacher Name' => 'اسم المعلم',
+    'Educational Level' => 'المستوى التعليمي',
+    'Class' => 'الصف',
+    'Section' => 'القسم',
+    'Actions' => 'الإجراءات',
+    'Book Editing' => 'تعديل الكتاب',
+    'Book Title' => 'عنوان الكتاب',
+    'Grade' => 'الصف',
+    'Choose' => 'اختر',
+    'classrooms' => 'الفصول الدراسية',
+    'section' => 'القسم',
+    'Attachments' => 'المرفقات',
+    'Save Data' => 'حفظ البيانات',
+    'Delete Book' => 'حذف الكتاب',
+    'Close' => 'إغلاق',
+    'Submit' => 'إرسال',
+    'Adding a new book' => 'إضافة كتاب جديد',
+];
